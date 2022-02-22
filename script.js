@@ -94,7 +94,3 @@
 // console.log(calculaSaldo(saldoDisponivel,lista));
 
 
-let array = [1, 2, 3, 4];
-
-array.reduce((current, acc) => current + acc);
-console.log (array);
